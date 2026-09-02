@@ -1,1 +1,1 @@
-# identityaccessmanagement-using-Aws
+# identity-access-management-using-Aws
